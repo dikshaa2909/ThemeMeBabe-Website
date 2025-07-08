@@ -6,7 +6,6 @@ export const metadata: Metadata = {
   title: "ThemeMeBabe - Mood-Based VS Code Theme Switcher",
   description:
     "A VS Code extension that changes your theme based on your coding mood — focused, tired, neutral, or frustrated. Mood-based vibes, automatically.",
-  
   keywords: ["VS Code", "theme", "extension", "mood", "coding", "developer tools"],
   authors: [{ name: "Diksha" }],
   openGraph: {
